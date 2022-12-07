@@ -1,0 +1,16 @@
+# Logger
+/Logger/.gradle/
+/Logger/.idea/
+/Logger/.svn/
+/Logger/java_pid5600.hprof   
+/Logger/java_pid8156.hprof 
+/Logger/*.hprof 
+/Logger/*.iml
+
+#sample
+/Logger/sample/build/
+/Logger/sample/*.iml
+
+#logger
+/Logger/logger/build/
+/Logger/logger/*.iml
